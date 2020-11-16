@@ -1,6 +1,6 @@
 {
   "name": "robofriends",
-  "homepage": "https://samuellyworld.github.io/robofriends",
+  "homepage": "https://samuellyworld.github.io/robofriends-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
